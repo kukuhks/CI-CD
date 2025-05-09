@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v4
       
     - name: Install Dependency
-      run: sudo apt-get install -y g++
+      run: sudo apt-get instal -y g++
       
     - name: Create Input File
       run: echo "6" > input.txt
