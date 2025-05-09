@@ -9,7 +9,8 @@ int main() {
 	int dice_num = rand() % 6 + 1;
 	int guess_num;
 
-	cout << "main tebak dadu-daduan\n";
+
+	cout << "Permainan Tebak Dadu\n";
 	cout << "Tebak angka: ";
 	cin >> guess_num;
 
