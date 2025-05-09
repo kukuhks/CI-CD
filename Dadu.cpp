@@ -18,6 +18,5 @@ int main() {
 	else
 		cout << "Tebakan salah\n";
 
-	system("pause");
 	return 0;
 }
